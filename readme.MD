@@ -2,7 +2,7 @@
 ### 复习python, 主要目的是提升python的编码能力和代码规范
 
 
-[Pythonic代码](pythonic.py)
+[Pythonic代码](python代码规范/pythonic.py)
 
 
 
